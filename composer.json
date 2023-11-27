@@ -1,0 +1,14 @@
+{
+  "name": "maicnogueira/laravel-package",
+  "description": "só mais um teste",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "maic",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
